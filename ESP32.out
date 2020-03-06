@@ -1,0 +1,7 @@
+\BOOKMARK [1][-]{section.1}{Components}{}% 1
+\BOOKMARK [1][-]{section.2}{Software Setup}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{ Installing Arduino}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Installation ESP32 instructions using Arduino IDE Boards Manager}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Hardware Setup}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{LED Blinking Using Bluetooth}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{LED Blinking with wifi}{section.3}% 7
